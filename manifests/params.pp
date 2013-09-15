@@ -1,4 +1,4 @@
-# == Class: virtualbox:params
+# == Class: virtualbox::params
 #
 # Define default parameters.
 #
