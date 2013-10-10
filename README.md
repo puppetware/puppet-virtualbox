@@ -12,7 +12,7 @@ Supported Platforms:
 Usage
 -----
 
-Install:
+Install VirtualBox 4.2.18 by default:
 
 ```
 class {'virtualbox': }
