@@ -2,6 +2,11 @@
 #
 # Install VirtualBox for Darwin
 #
+# === Parameters:
+#
+# [*build*] Build number
+# [*version*] Version of VirtualBox to be installed
+#
 # === Examples
 #
 #  class { virtualbox: }
