@@ -12,7 +12,7 @@ Supported Platforms:
 Usage
 -----
 
-Install VirtualBox 4.3 by default:
+Install VirtualBox 4.3.0 by default:
 
 ```
 class {'virtualbox': }
