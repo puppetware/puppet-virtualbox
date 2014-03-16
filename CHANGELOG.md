@@ -1,4 +1,4 @@
-2014-03-15 - Ryan Skoblenick <ryan@skoblenick.com> - 0.4.0
+2014-03-15 - Ryan Skoblenick <ryan@skoblenick.com> - 0.3.0
   * Updated default version of VirtualBox to 4.3.8 build 92456
 
 2013-10-19 - Ryan Skoblenick <ryan@skoblenick.com> - 0.2.0
