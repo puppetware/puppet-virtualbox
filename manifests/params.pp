@@ -12,7 +12,7 @@
 #
 class virtualbox::params {
 
-  $version = '4.3.0'
-  $build   = '89960'
+  $version = '4.3.8'
+  $build   = '92456'
 
 }
